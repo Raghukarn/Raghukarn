@@ -6,5 +6,5 @@ Beyond data, I advocate for student mental health, serve as a clinical POC for o
  - 🔭 I’m currently working on -->  **Python, R, Machine Learning, Power BI, SQL**
 - 🌱 I’m currently learning -->  **Natural Language Processing & Computer vision**
 - 👯 I’m looking to collaborate on -->  Ideas to make better social cause 
-- 🤔 I’m looking for help with -->  [!EDA Approaches]
+- 🤔 I’m looking for help with -->  EDA Approaches
 - ⚡ Fun fact --> **Always up for hiking & cycling**
