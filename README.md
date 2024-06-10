@@ -4,7 +4,7 @@ I'm Raghukarn Sharma, a healthcare analytics pro with a knack for data and a pas
 Beyond data, I advocate for student mental health, serve as a clinical POC for oncology, and lead outdoor treks. Let's connect and explore the exciting world of healthcare analytics together!
  
  - 🔭 I’m currently working on -->  **Python, R, Machine Learning, Power BI, SQL, SSRS**
-- 🌱 I’m currently learning -->  **Natural Language Processing & Computer vision**
+- 🌱 I’m currently learning -->  **Data Engineering, Natural Language Processing & Computer vision**
 - 👯 I’m looking to collaborate on -->  Ideas to make better social cause 
 - 🤔 I’m looking for help with -->  EDA Approaches
 - ⚡ Fun fact --> **Always up for hiking & cycling**
